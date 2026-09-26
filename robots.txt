@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ClauGithu.github.io/botellon-express/sitemap.xml
