@@ -68,13 +68,7 @@ section h2 { font-family: var(--font-titulo); font-weight: 700; text-align: cent
 .local-card a.mapa-link { display: inline-block; margin-top: 15px; color: var(--azul-marca); font-weight: 600; text-decoration: none; font-size: 14px; }
 .local-card a.mapa-link:hover { text-decoration: underline; }
 .contacto { max-width: 600px; margin: 0 auto; text-align: center; }
-.contacto-form form { display: flex; flex-direction: column; gap: 15px; }
-.contacto-form input, .contacto-form textarea {
-  padding: 12px 15px; border: 1px solid var(--azul-claro); border-radius: 8px; font-size: 15px; font-family: inherit; text-align: left;
-}
-.contacto-form textarea { min-height: 110px; resize: vertical; }
-.contacto-form button { background: var(--azul-marca); color: var(--blanco); border: none; padding: 14px; border-radius: 8px; font-size: 16px; font-weight: 700; cursor: pointer; transition: background 0.2s; font-family: inherit; }
-.contacto-form button:hover { background: var(--azul-oscuro); }
+
 footer { background: var(--azul-oscuro); color: var(--blanco); text-align: center; padding: 25px 5%; font-size: 14px; }
 .whatsapp-float {
   position: fixed; bottom: 25px; right: 25px; background: var(--verde-whats); width: 60px; height: 60px; border-radius: 50%;
